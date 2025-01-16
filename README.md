@@ -1,20 +1,33 @@
+# About Me 👋
+🎓 **ชั้นปี:** นักศึกษาชั้นปีที่ 2  
+- มหาวิทยาลัยขอนเเก่น
+  
+💻 **ทักษะการเขียนโปรแกรม:**  
+- HTML, CSS, JavaScript (พื้นฐาน)  
+- Python (พื้นฐาน) 
+  - **Libraries:** Pandas, NumPy, Seaborn (พื้นฐาน)  
+  - **GUI Development:** Tkinter (พื้นฐาน)  
+- การเขียนโปรแกรมเพื่อสร้างเว็บ (Web Development)  
 
-# Project Title
+✨ **ความสนใจ:**  
+- พัฒนาเว็บไซต์  
+- เรียนรู้เกี่ยวกับ Backend และ Node.js  
+- การเขียนโปรแกรมเพื่อสร้างผลิตภัณฑ์ใหม่ ๆ  
 
-A brief description of what this project does and who it's for
+📚 **สิ่งที่กำลังเรียนรู้:**  
+- JavaScript  
+- การสร้าง API ด้วย Node.js  
 
+🌱 **เป้าหมายในอนาคต:**  
+- เข้าร่วมกิจกรรม YWC (Young Webmaster Camp)  
+- พัฒนาโครงการที่สามารถนำไปใช้จริง  
 
+🌟 **GitHub Goals:**  
+- สร้าง Repository สำหรับโปรเจกต์ระหว่างเรียน  
+- แชร์ความรู้และแนวคิดผ่านโค้ด
 
-## 🚀 About Me
-I'm a full stack developer...
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+-----
 
