@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+body{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100vh;
+    background: url(../picture/pngtree-an-image-showing-a-river-in-the-forest-picture-image_3409441.jpg);
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.allcontent{
+    width: 330px;
+    height: 360px;
+    background: rgb(237,230,237);
+    background: linear-gradient(
+        0deg,
+        rgba(141, 138, 141, 0.8) 6%, /* เพิ่มความโปร่งใส */
+        rgba(196, 190, 196, 0.6) 36%, 
+        rgba(200, 190, 180, 0.4) 48%, 
+        rgba(212, 207, 201, 0.3) 65%, 
+        rgba(188, 187, 184, 0.8) 87%);
+    backdrop-filter: blur(8px);
+    border: 3px solid #ffffff83;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.allcontent h1{
+    margin-bottom: 12px;
+}
+
+.user-1{
+    position: relative;
+}
+
+.user-2{
+    position: relative;
+    margin-bottom: 12px;
+}
+.allcontent .user{
+    width: 250px;
+    height: 40px;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #ffffffac;
+    border-radius: 30px;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 24px;
+}
+
+input::placeholder{
+    color: #ffffffb9;
+    font-size: 0.8rem;
+    letter-spacing: 0.3px;
+}
+
+.fa-user{
+    position: relative;
+    right: 16%;
+    top: 4%;
+
+}
+.fa-lock{
+    position: relative;
+    right: 16%;
+    top: 4%;
+
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.card-3 {
+    width: 250px;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.remem{
+    margin-left: -30px;
+}
+.allcontent .btn{
+    outline: none;
+    border: none;
+    font-size: 0.8rem;
+    border-radius: 30px;
+    width: 200px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+h3{
+    color: #fefefe;
+}
+input:hover{
+    color: black;
+    font-size: 1rem;
+}
